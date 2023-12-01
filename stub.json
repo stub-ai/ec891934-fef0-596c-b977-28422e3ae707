@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"generate a random AWS backend using terraform","md5":"195dd87e13036e370d8c37163c51b1a3"}]}
